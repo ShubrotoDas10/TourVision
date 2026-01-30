@@ -95,7 +95,7 @@ python pipeline_new.py
 
 ## ⚙️ Configuration
 
-Edit these settings in `pipeline_new.py`:
+Edit these settings in `tourVision.py`:
 
 ```python
 # Property Settings
