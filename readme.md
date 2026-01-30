@@ -102,7 +102,7 @@ Edit these settings in `tourVision.py`:
 PROPERTY_CODE = "005"  # Change for each property
 
 # Paths
-IMAGE_FOLDER = f"D:\\rentremote\\images\\{PROPERTY_CODE}"
+IMAGE_FOLDER = f"D:\\images\\{PROPERTY_CODE}"
 OUTPUT_FOLDER = f"output/{PROPERTY_CODE}"
 
 # AI Models
